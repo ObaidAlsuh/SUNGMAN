@@ -10,7 +10,7 @@ sources:
         identifier: raw_gz_product
         description: raw greenweez product data
         columns:
-          - name: product_id
+          - name: products_id
             description: primary key for the table
             tests:
               - not_null
